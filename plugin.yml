@@ -1,0 +1,5 @@
+name: PrismaHG
+main: com.br.gabrielsilva.prismamc.hungergames.HungerGames
+author: BiielBr , Rafael Auler
+version: 0.0.1
+softdepend: [PrismaCommons]
